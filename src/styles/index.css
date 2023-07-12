@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter-container{
+    width: 30%;
+    margin: auto;
+    margin-top: 1%;
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.number-container{
+    justify-content: center;
+    width: 10%;
+    border-radius: 15px;
+    margin-top: 10px;
+    height: 70%;
+}
+
+.clock{
+    font-size: 31px;
+}
